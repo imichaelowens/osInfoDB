@@ -1,0 +1,5 @@
+/*Taken from https://stackoverflow.com/questions/22000754/responsive-bootstrap-jumbotron-background-image */
+.jumbotron {
+    background-image: url("../images/green_pcb_dark.jpg");
+    background-size: cover;
+  }
